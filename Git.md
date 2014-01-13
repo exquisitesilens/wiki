@@ -11,4 +11,3 @@
 
 so on: 
 [7 Useful Git Tips for Beginners](http://sixrevisions.com/web-development/git-tips/)
-
