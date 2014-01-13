@@ -6,8 +6,6 @@
 4. Configure Powershellprofil (Microsoft.PowerShell_profile.ps1)
 
    `# Load posh-git example profile`
-
    `. (([System.IO.Path]::GetDirectoryName($PROFILE)) + '\Poshgit\profile.example.ps1')`
 
-so on: 
-[7 Useful Git Tips for Beginners](http://sixrevisions.com/web-development/git-tips/)
+5. So on: [7 Useful Git Tips for Beginners](http://sixrevisions.com/web-development/git-tips/)

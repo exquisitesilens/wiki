@@ -1,7 +1,6 @@
 # Wiki of Wenjin on www.mdwiki.net
 
-* [Oracle](/Oracle)
-* [OpenSource](/Git)
+* [Git step for step](/Git)
 * [Jenkins](/Jenkins)
 
 * [Markdown Cheat Sheet](/markdown)
