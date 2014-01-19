@@ -2,8 +2,12 @@
 
 Add to TFSBuild.proj
 
-```<PropertyGroup>
+	<PropertyGroup>
+
       <!-- call task on remote pc -->
-      <StartBuildCompleteJobCommandLine>psexec \\Server -u domain\myTask -accepteula schtasks /Run  </StartBuildCompleteJobCommandLine>
-</PropertyGroup>
-```
+
+      <StartBuildCompleteJobCommandLine>
+		psexec \\Server -u domain\myTask -accepteula schtasks /Run  
+	  </StartBuildCompleteJobCommandLine>
+
+	</PropertyGroup>
