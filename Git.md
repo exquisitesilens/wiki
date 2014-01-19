@@ -1,4 +1,4 @@
-#Git step for step
+# Git step for step
 
 1. Full installer for official Git for Windows 1.8.3 [http://code.google.com/p/msysgit/downloads/list](http://code.google.com/p/msysgit/downloads/list)
 
